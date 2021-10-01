@@ -1,0 +1,306 @@
+@media only screen and (max-width:1448px){
+    h1{
+        font-size:2.5rem;
+    }
+    section{
+        padding: 2.5% 4.5%;
+    }
+  
+     
+
+}
+@media only screen and (max-width:1024px){
+    h1{
+        font-size:1.8rem;
+    }
+    section{
+        padding: 2.5% 4.5%;
+    }
+    h2{
+      font-size:1.7rem;
+    }
+    nav ul li a {
+      /* text-decoration: none; */
+       
+      
+      font-size: 0.8rem;
+      
+    }
+    .button:link,.button:visited{
+     
+      font-size: 1rem;
+      
+     
+     
+    }
+    .features-info {
+      
+      font-size: 105%;
+     
+    }
+    .features-article {
+    font-size:0.7rem;
+    }
+    .features-article h3{
+      font-size: 0.9rem;
+    }
+    .cities-parent h3{
+   font-size: 0.9rem;
+    }
+    
+    
+    
+    .cities-link {
+     font-size: 0.7rem;
+    }
+    .reviews-section{
+    
+      
+    
+      font-size: 75%;
+    
+    }
+    .signup-pricing p {
+      font-size:0.7rem;
+    }
+    .signup-header h3 {
+     font-size: 0.8rem;
+     margin-bottom: -5.5%;
+    }
+    .signup-header{
+      padding-bottom:5%;
+    }
+    
+    .signup-pricing span {
+      font-size: 200%;
+    
+    }
+    .signup-child {
+      width: 30%;
+    
+      
+    }
+    
+    .signup-features {
+      font-size: 80%;
+    
+    }
+    
+    
+    .steps-list div {
+      
+      font-size: 70%;
+      border-radius: 50%;
+      padding-top: 12px;
+      height: 45px;
+      width: 45px;
+    }
+    .steps-how-to {
+     
+      font-size: 111%;
+    }
+    
+    .store {
+      height: 2.5rem;
+      margin-right: 1rem;
+    }
+    
+   
+    .text-value{
+      font-size: 0.8rem;
+    }
+    
+    
+    .social-link li{
+      font-size:0.8rem;
+    }
+    .footer-p{
+      
+      font-size:90%;
+    }
+    
+    
+}
+@media only screen and (max-width:768px){
+    h1{
+        font-size:1.5rem;
+    }
+    section{
+        padding: 2.5% 4.5%;
+    }
+    
+}
+@media only screen and (max-width:430px){
+    h1{
+        font-size:1.5rem;
+    }
+    section{
+        padding: 2.5% 4.5%;
+        overflow: hidden;
+    
+    }
+    h2{
+      font-size:1.2rem;
+    }
+    h2:after{
+     
+      width:8rem;
+      height:0.1rem;
+      margin-left:30%;
+      margin-top:2rem;
+    }
+    nav ul li {
+        display: none;
+      }
+      .features-info {
+       display: block;
+       font-size: 80%;
+      }
+      
+      .features-parent {
+        display:block;
+      }
+      .features-article {
+       display: block;
+      }
+      .steps-parent {
+        display: block;
+      }
+      
+      
+      
+      .steps-iphone {
+       display: block;
+      }
+      
+      .steps-how-to {
+        
+        display: block;
+      }
+      .steps-list div {
+       display: block;
+      }
+      .steps-list p {
+        display: block;
+      }
+      
+      /* .steps-how-to:last-child {
+     display: block;
+      } */
+      
+      
+      .store {
+       display: block;
+      }
+      .cities-parent {
+        display: block;
+      }
+      
+      .cities-child img {
+        
+        display: block;
+      }
+      
+      .cities-link {
+        display: block;
+      
+      }
+      
+      
+      .cities-link p {
+        display: block;
+      }
+      .reviews{
+        display:block;
+       
+        
+        
+      }
+      .reviews-section{
+       display: block;
+      }
+      
+       
+      .reviews-section img{
+      display: block;
+      margin-left: 20%;
+      } 
+      .reviews-section p{
+       display: block;
+    
+      
+      }
+      .img-text{
+          margin-left: 30%;
+              }
+              .signup-parent{
+                display: block;
+                
+
+              }
+              .signup-child{
+                display: block;
+                margin-bottom: 2rem;
+                margin-left:20%;
+              }
+              .signup-pricing p {
+                font-size:0.7rem;
+              }
+              .signup-header h3 {
+               font-size: 0.8rem;
+               margin-bottom: -5.5%;
+              }
+              .signup-header{
+                padding-bottom:5%;
+              }
+              
+              .signup-pricing span {
+                font-size: 200%;
+              
+              }
+              .signup-child {
+                width: 60%;
+              
+                
+              }
+              
+              .signup-features {
+                font-size: 80%;
+              
+              }
+              .text-value{
+                font-size: 0.5rem;
+              }
+              
+              
+              .social-link li{
+                font-size:0.5rem;
+              }
+              .footer-p{
+                
+                font-size:70%;
+              }
+              
+
+.entry{
+  display: flex;
+  justify-content: left;
+  width: 100%;
+  margin: 0 auto;
+}
+.form-child{
+  width:100%; 
+  
+}
+
+
+
+
+
+input[type="checkbox"]{
+  margin-bottom: 5%;
+margin-left: -52%; 
+  
+}
+              
+}
